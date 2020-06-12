@@ -1,0 +1,12 @@
+.section {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.section-content {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}

@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+}
+
+.row > .column {
+  padding: 10px;
+}
+
+.row-large {
+  margin: -40px;
+}
+.row-large > .column {
+  padding: 40px;
+}
